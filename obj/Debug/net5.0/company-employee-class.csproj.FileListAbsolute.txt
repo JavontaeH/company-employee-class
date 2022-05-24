@@ -1,0 +1,16 @@
+C:\Users\harde\workspace\csharp\company-employee-class\bin\Debug\net5.0\company-employee-class.exe
+C:\Users\harde\workspace\csharp\company-employee-class\bin\Debug\net5.0\company-employee-class.deps.json
+C:\Users\harde\workspace\csharp\company-employee-class\bin\Debug\net5.0\company-employee-class.runtimeconfig.json
+C:\Users\harde\workspace\csharp\company-employee-class\bin\Debug\net5.0\company-employee-class.runtimeconfig.dev.json
+C:\Users\harde\workspace\csharp\company-employee-class\bin\Debug\net5.0\company-employee-class.dll
+C:\Users\harde\workspace\csharp\company-employee-class\bin\Debug\net5.0\ref\company-employee-class.dll
+C:\Users\harde\workspace\csharp\company-employee-class\bin\Debug\net5.0\company-employee-class.pdb
+C:\Users\harde\workspace\csharp\company-employee-class\obj\Debug\net5.0\company-employee-class.csproj.AssemblyReference.cache
+C:\Users\harde\workspace\csharp\company-employee-class\obj\Debug\net5.0\company-employee-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harde\workspace\csharp\company-employee-class\obj\Debug\net5.0\company-employee-class.AssemblyInfoInputs.cache
+C:\Users\harde\workspace\csharp\company-employee-class\obj\Debug\net5.0\company-employee-class.AssemblyInfo.cs
+C:\Users\harde\workspace\csharp\company-employee-class\obj\Debug\net5.0\company-employee-class.csproj.CoreCompileInputs.cache
+C:\Users\harde\workspace\csharp\company-employee-class\obj\Debug\net5.0\company-employee-class.dll
+C:\Users\harde\workspace\csharp\company-employee-class\obj\Debug\net5.0\ref\company-employee-class.dll
+C:\Users\harde\workspace\csharp\company-employee-class\obj\Debug\net5.0\company-employee-class.pdb
+C:\Users\harde\workspace\csharp\company-employee-class\obj\Debug\net5.0\company-employee-class.genruntimeconfig.cache
